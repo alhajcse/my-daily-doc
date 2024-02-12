@@ -1,0 +1,2 @@
+# my-daily-doc
+Documentation
